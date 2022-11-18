@@ -1,17 +1,17 @@
 @echo off
 chcp 65001
 
-echo メニューモード(Menu Mode)
+echo 模式选择(Menu Mode)
 
-echo 1 Windows 10モード(Classic Menu Mode)
-
-echo,
-
-echo 2 Windows 11モード(Win11 Menu Mode)
+echo 1 Windows 10模式(Classic Menu Mode)
 
 echo,
 
-echo 0 何もしない(Do Nothin)
+echo 2 Windows 11模式(Win11 Menu Mode)
+
+echo,
+
+echo 0 什么也不做(Do Nothin)
 
 echo,
 

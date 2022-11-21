@@ -11,7 +11,7 @@ echo 2 Windows 11模式(Win11 Menu Mode)
 
 echo,
 
-echo 0 什么也不做(Do Nothin)
+echo 0 什么也不做(Do Nothing)
 
 echo,
 
